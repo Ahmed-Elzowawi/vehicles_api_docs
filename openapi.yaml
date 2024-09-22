@@ -1,6 +1,6 @@
 openapi: '3.0.3'
 info:
-  title: Vehicle API documentation
+  title: Vehicle World API documentation
   version: 1.0.0
 servers:
   - url: 'localhost:50572/api/v1'
